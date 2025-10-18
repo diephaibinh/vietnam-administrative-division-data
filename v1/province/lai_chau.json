@@ -1,0 +1,197 @@
+{
+    "name": "Lai Châu",
+    "type": "tỉnh",
+    "level": 1,
+    "items": [
+        {
+            "name": "Bản Bo",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Bình Lư",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Bum Nưa",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Bum Tở",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Dào San",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Đoàn Kết",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Hồng Thu",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Hua Bum",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Khoen On",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Khổng Lào",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Khun Há",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Lê Lợi",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Mù Cả",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Mường Khoa",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Mường Kim",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Mường Mô",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Mường Tè",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Mường Than",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Nậm Cuổi",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Nậm Hàng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Nậm Mạ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Nậm Sỏ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Nậm Tăm",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Pắc Ta",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Pa Tần",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Pa Ủ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Phong Thổ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Pu Sam Cáp",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Sì Lở Lầu",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Sìn Hồ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Sin Suối Hồ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tả Lèng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân Phong",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Tân Uyên",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tà Tổng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Than Uyên",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Thu Lũm",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tủa Sín Chải",
+            "type": "xã",
+            "level": 2
+        }
+    ]
+}

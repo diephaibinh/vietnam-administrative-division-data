@@ -1,0 +1,332 @@
+{
+    "name": "Lạng Sơn",
+    "type": "tỉnh",
+    "level": 1,
+    "items": [
+        {
+            "name": "Bắc Sơn",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Bằng Mạc",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ba Sơn",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Bình Gia",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Cai Kinh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Cao Lộc",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Châu Sơn",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Chiến Thắng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Chi Lăng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Công Sơn",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Điềm He",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Đình Lập",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Đoàn Kết",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Đồng Đăng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Đông Kinh",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Hoàng Văn Thụ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Hoa Thám",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Hội Hoan",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Hồng Phong",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Hưng Vũ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Hữu Liên",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Hữu Lũng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Kháng Chiến",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Khánh Khê",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Khuất Xá",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Kiên Mộc",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Kỳ Lừa",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Lộc Bình",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Lợi Bác",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Lương Văn Tri",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Mẫu Sơn",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Na Dương",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Na Sầm",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Nhân Lý",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Nhất Hòa",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Quan Sơn",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Quốc Khánh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Quốc Việt",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Quý Hòa",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tam Thanh",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Tân Đoàn",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân Thành",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân Tiến",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân Tri",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân Văn",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Thái Bình",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Thất Khê",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Thiện Hòa",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Thiện Long",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Thiện Tân",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Thiện Thuật",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Thống Nhất",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Thụy Hùng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tràng Định",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tri Lễ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tuấn Sơn",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Văn Lãng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Vạn Linh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Vân Nham",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Văn Quan",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Vũ Lăng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Vũ Lễ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Xuân Dương",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Yên Bình",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Yên Phúc",
+            "type": "xã",
+            "level": 2
+        }
+    ]
+}

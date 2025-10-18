@@ -1,0 +1,332 @@
+{
+    "name": "Khánh Hòa",
+    "type": "tỉnh",
+    "level": 1,
+    "items": [
+        {
+            "name": "Anh Dũng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Bác Ái",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Bác Ái Đông",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Bác Ái Tây",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Bắc Cam Ranh",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Bắc Khánh Vĩnh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Bắc Nha Trang",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Bắc Ninh Hòa",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ba Ngòi",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Bảo An",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Cam An",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Cam Hiệp",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Cam Lâm",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Cam Linh",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Cam Ranh",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Cà Ná",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Công Hải",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Đại Lãnh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Diên Điền",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Diên Khánh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Diên Lạc",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Diên Lâm",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Diên Thọ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Đông Hải",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Đông Khánh Sơn",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Đông Ninh Hòa",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Đô Vinh",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Hòa Thắng",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Hòa Trí",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Khánh Sơn",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Khánh Vĩnh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Lâm Sơn",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Mỹ Sơn",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Nam Cam Ranh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Nam Khánh Vĩnh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Nam Nha Trang",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Nam Ninh Hòa",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Nha Trang",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Ninh Chử",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Ninh Hải",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ninh Hòa",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Ninh Phước",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ninh Sơn",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Phan Rang",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Phước Dinh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Phước Hà",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Phước Hậu",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Phước Hữu",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Suối Dầu",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Suối Hiệp",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân Định",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tây Khánh Sơn",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tây Khánh Vĩnh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tây Nha Trang",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Tây Ninh Hòa",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Thuận Bắc",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Thuận Nam",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Trung Khánh Vĩnh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Trường Sa",
+            "type": "đặc khu",
+            "level": 2
+        },
+        {
+            "name": "Tu Bông",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Vạn Hưng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Vạn Ninh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Vạn Thắng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Vĩnh Hải",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Xuân Hải",
+            "type": "xã",
+            "level": 2
+        }
+    ]
+}

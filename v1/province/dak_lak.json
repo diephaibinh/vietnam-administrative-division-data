@@ -1,0 +1,517 @@
+{
+    "name": "Đắk Lắk",
+    "type": "tỉnh",
+    "level": 1,
+    "items": [
+        {
+            "name": "Bình Kiến",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Buôn Đôn",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Buôn Hồ",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Buôn Ma Thuột",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Cư Bao",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Cư M'Gar",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Cư M'Ta",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Cuôr Đăng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Cư Pơng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Cư Prao",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Cư Pui",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Cư Yang",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Đắk Liêng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Đắk Phơi",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Dang Kang",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Dliê Ya",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Đông Hòa",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Đồng Xuân",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Dray Bhăng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Đức Bình",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Dur Kmăl",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Bá",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Bung",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Drăng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Drông",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Hiao",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea H'Leo",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Kao",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Ea Kar",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Khăl",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Kiết",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Kly",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Knốp",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Knuếc",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Ktur",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Ly",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea M'Droh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Na",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Ning",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Nuôl",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Ô",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Păl",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Phê",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Riêng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Rốk",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Súp",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Trang",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Tul",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Wer",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ea Wy",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Hòa Hiệp",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Hòa Mỹ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Hòa Phú",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Hòa Sơn",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Hòa Thịnh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Hòa Xuân",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ia Lốp",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ia Rvê",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Krông Á",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Krông Ana",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Krông Bông",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Krông Búk",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Krông Năng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Krông Nô",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Krông Pắc",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Liên Sơn Lắk",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "M'Drắk",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Nam Ka",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ô Loan",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Phú Hòa 1",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Phú Hòa 2",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Phú Mỡ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Phú Xuân",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Phú Yên",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Pơng Drang",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Quảng Phú",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Sông Cầu",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Sông Hinh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Sơn Hòa",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Sơn Thành",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Suối Trai",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tam Giang",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân An",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Tân Lập",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Tân Tiến",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tây Hòa",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tây Sơn",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Thành Nhất",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Tuy An Bắc",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tuy An Đông",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tuy An Nam",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tuy An Tây",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tuy Hòa",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Vân Hòa",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Vụ Bổn",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Xuân Cảnh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Xuân Đài",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Xuân Lãnh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Xuân Lộc",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Xuân Phước",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Xuân Thọ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Yang Mao",
+            "type": "xã",
+            "level": 2
+        }
+    ]
+}

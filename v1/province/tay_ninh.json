@@ -1,0 +1,487 @@
+{
+    "name": "Tây Ninh",
+    "type": "tỉnh",
+    "level": 1,
+    "items": [
+        {
+            "name": "An Lục Long",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "An Ninh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "An Tịnh",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Bến Cầu",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Bến Lức",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Bình Đức",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Bình Hiệp",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Bình Hòa",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Bình Minh",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Bình Thành",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Cần Đước",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Cần Giuộc",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Cầu Khởi",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Châu Thành",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Đông Thành",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Đức Hòa",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Đức Huệ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Đức Lập",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Dương Minh Châu",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Gia Lộc",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Gò Dầu",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Hảo Đước",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Hậu Nghĩa",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Hậu Thạnh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Hiệp Hòa",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Hòa Hội",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Hòa Khánh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Hòa Thành",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Hưng Điền",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Hưng Thuận",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Khánh Hậu",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Khánh Hưng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Kiến Tường",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Lộc Ninh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Long An",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Long Cang",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Long Chữ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Long Hoa",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Long Hựu",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Long Thuận",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Lương Hòa",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Mộc Hóa",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Mỹ An",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Mỹ Hạnh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Mỹ Lệ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Mỹ Lộc",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Mỹ Quý",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Mỹ Thạnh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Mỹ Yên",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Nhơn Hòa Lập",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Nhơn Ninh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Nhựt Tảo",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ninh Điền",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Ninh Thạnh",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Phước Chỉ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Phước Lý",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Phước Thạnh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Phước Vinh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Phước Vĩnh Tây",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Rạch Kiến",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tầm Vu",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân An",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Tân Biên",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân Châu",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân Đông",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân Hòa",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân Hội",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân Hưng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân Lân",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân Lập",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân Long",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân Ninh",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Tân Phú",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân Tập",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân Tây",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân Thành",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân Thạnh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tân Trụ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Thạnh Bình",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Thanh Điền",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Thạnh Đức",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Thạnh Hóa",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Thạnh Lợi",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Thạnh Phước",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Thuận Mỹ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Thủ Thừa",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Trảng Bàng",
+            "type": "phường",
+            "level": 2
+        },
+        {
+            "name": "Trà Vong",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Truông Mít",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tuyên Bình",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Tuyên Thạnh",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Vàm Cỏ",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Vĩnh Châu",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Vĩnh Công",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Vĩnh Hưng",
+            "type": "xã",
+            "level": 2
+        },
+        {
+            "name": "Vĩnh Thạnh",
+            "type": "xã",
+            "level": 2
+        }
+    ]
+}
